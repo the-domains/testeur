@@ -12,4 +12,8 @@ color:
     - '#8E2800'
 layout_spectrum: 0.5905596937518567
 name: Testeur
+navigation:
+  - name: 'Legend of Tarzan Clips: The Ape-Man, the Myth, the Legend'
+    id: 8630d699-449b-4c47-8807-eea0645f066b
+    type: content
 title: Juste un site
