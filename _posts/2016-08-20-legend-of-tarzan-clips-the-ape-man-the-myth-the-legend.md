@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://screenrant.com/legend-tarzan-movie-2016-clips/'
 title: 'Legend of Tarzan Clips: The Ape-Man, the Myth, the Legend'
-datePublished: '2016-08-20T21:02:44.806Z'
-dateModified: '2016-08-20T20:59:34.888Z'
+datePublished: '2016-08-20T21:03:30.137Z'
+dateModified: '2016-08-20T21:02:35.920Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-20-legend-of-tarzan-clips-the-ape-man-the-myth-the-legend.md
