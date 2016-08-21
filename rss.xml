@@ -4,28 +4,21 @@
         <description><![CDATA[Juste un site]]></description>
         <link>https://thegrid.ai/testeur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 21:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 21:27:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testeur/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[See #SuicideSquad, in theaters August 5th.]]></title>
-            <description><![CDATA[<article><h1>See #SuicideSquad, in theaters August 5th.</h1><p>The official movie site for SUICIDE SQUAD, directed by David Ayer. In theaters August 5, 2016</p><img src="http://www.suicidesquad.com/assets/images/shareV2.jpg"></article>]]></description>
-            <link>http://www.suicidesquad.com/</link>
-            <guid isPermaLink="false">edda98ab-a4de-4f6b-b87b-055c243a9cbd</guid>
-            <pubDate>Sat, 20 Aug 2016 21:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legend of Tarzan Clips: The Ape-Man, the Myth, the Legend]]></title>
-            <description><![CDATA[<article><h1>Legend of Tarzan Clips: The Ape-Man, the Myth, the Legend</h1><p>At this point, the character of Tarzan has been around for over 100 years, since Edgar Rice Burroughs first published his novel Tarzan of the Apes back in 1914. And through twenty-five sequels and countless comics, films and TV series, the wild man has managed to live on in pop culture all this time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/466c7d09c9e602f22a972c1e17bae5b9/noop.jpg?input=http%3A%2F%2Fstatic.srcdn.com%2Fwp-content%2Fuploads%2Flegend-tarzan-movie-2016-clips.jpg"></article>]]></description>
-            <link>http://screenrant.com/legend-tarzan-movie-2016-clips/</link>
-            <guid isPermaLink="false">8630d699-449b-4c47-8807-eea0645f066b</guid>
-            <pubDate>Sat, 20 Aug 2016 21:03:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sevenhugs' Smart Remote]]></title>
             <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
             <guid isPermaLink="false">e8fe9990-aaf3-4717-a134-192d34af5aa0</guid>
-            <pubDate>Sat, 20 Aug 2016 21:01:17 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 21:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[See #SuicideSquad, in theaters August 5th.]]></title>
+            <description><![CDATA[<article><h1>See #SuicideSquad, in theaters August 5th.</h1><p>The official movie site for SUICIDE SQUAD, directed by David Ayer. In theaters August 5, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7b65804e313b342dbd4a18c9c4a7550/noop.jpg?input=http%3A%2F%2Fwww.suicidesquad.com%2Fassets%2Fimages%2FshareV2.jpg"></article>]]></description>
+            <link>http://www.suicidesquad.com/</link>
+            <guid isPermaLink="false">edda98ab-a4de-4f6b-b87b-055c243a9cbd</guid>
+            <pubDate>Sat, 20 Aug 2016 21:06:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
