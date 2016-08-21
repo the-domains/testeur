@@ -1,3 +1,4 @@
+layout_spectrum: 0.5905596937518567
 typography_spectrum: 0.6869064781349152
 color:
   brandStrength: 0.057945501524955034
@@ -5,15 +6,9 @@ color:
   saturation: 0.6536665526218712
   rhythmicContrast: 0.6390675050206482
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.5905596937518567
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Testeur
-navigation:
-  - name: 'Legend of Tarzan Clips: The Ape-Man, the Myth, the Legend'
-    id: 8630d699-449b-4c47-8807-eea0645f066b
-    type: content
-title: Juste un site
